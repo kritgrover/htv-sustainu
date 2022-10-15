@@ -13,7 +13,8 @@ An app that tracks sustainability activites performed by students on campus and 
   
 </br>
 
-##Goal
+## Goal
+
 
 </br>
 
@@ -31,4 +32,4 @@ An app that tracks sustainability activites performed by students on campus and 
 
 ### Using Points:
 <strong>Redeem</strong> : Points can be redeemed from the app directly as cashback. <br>
-<strong>Donate</strong> : Points can be used to donate for environmental causes to NGOs.
+<strong>Donate</strong> : Points can be used to donate for environmental causes to NGOs such as Greenpeace and World Wildlife Fund.
