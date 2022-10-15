@@ -15,32 +15,6 @@ header {
     align-items: center;
 }
 
-/* Split the screen in half */
-.split {
-    height: 100%;
-    width: 50%;
-    position: absolute;
-    top: 0;
-    overflow-x: hidden;
-    padding: 10px;
-}
-
-/* Control the left side */
-.left {
-    position: absolute;
-    left: 0;
-    background-color: #E1FFB1;
-    padding: 25px;
-}
-
-/* Control the right side */
-.right {
-    right: 0;
-    background-color: #8EAE89;
-    position: absolute;
-    padding-top: 15vh;
-}
-
 h1 {
     font-family: 'Kalam', cursive;
     color: white;
@@ -58,7 +32,8 @@ h1 {
 }
 
 .description {
-    padding-top: 100px;
+    display: inline-block;
+    width: 50%;
 }
 
 h2 {
@@ -68,8 +43,16 @@ h2 {
     color: #2E6345;
 }
 
+#goal {
+    margin-bottom: 70px;
+}
+
+#login {
+    margin-bottom: 70px;
+}
+
 p {
-    display: inline-block;
+    display: inline;
     font-size: 1.5rem;
     color: #2B4865;
     letter-spacing: 0.1rem;
@@ -79,22 +62,34 @@ p {
     line-height: 175%;
 }
 
-#goal {
-    margin-bottom: 25vh;
+main {
+    padding: 75px;
 }
 
 /* Slideshow container */
 .slideshow-container {
-    max-width: 250px;
     position: relative;
-    margin: auto;
-
-
+    float: right;
+    width: 220px;
+    right: 10%;
+    padding-top: 25px;
 }
 
 /* Hide the images by default */
-.mySlides {
+.mySlides1 {
     display: none;
+}
+
+.mySlides2 {
+    display: none;
+}
+
+.mySlides3 {
+    display: none;
+}
+
+#features .slideshow-container {
+    padding-top: 75px;
 }
 
 /* Next & previous buttons */
@@ -133,18 +128,6 @@ p {
     top: 0;
 }
 
-/* The dots/bullets/indicators */
-.dot {
-    cursor: pointer;
-    height: 15px;
-    width: 15px;
-    margin: 0 2px;
-    background-color: #bbb;
-    border-radius: 50%;
-    display: inline-block;
-    transition: background-color 0.6s ease;
-}
-
 .active, .dot:hover {
     background-color: #717171;
 }
@@ -158,4 +141,10 @@ p {
 @keyframes fade {
     from {opacity: .4}
     to {opacity: 1}
+}
+
+img {
+    border-color: dimgrey;
+    border-style: solid;
+    border-radius: 15px;
 }
