@@ -1,5 +1,5 @@
 # SustainU
-An app that tracks sustainability activites performed by students on campus and rewards them with points that can be redeemed or donated. This app aims to promote sustainability and help the environment by providing an incentive for students to do so.
+An app that tracks sustainability activities performed by students on campus and rewards them with points that can be redeemed or donated. This app aims to promote sustainability and help the environment by providing an incentive for students to do so.
 
 </br>
 
