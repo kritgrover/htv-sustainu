@@ -8,7 +8,7 @@ An app that tracks sustainability activites performed by students on campus and 
 - [Functionality](#functionality)
   - [Getting Started](#getting-started)
   - [Earning and Using Points](#earning-points)
-  - [Gamification]()
+  - [Gamification](#gamification)
 - [Design and Prototype]()
   
 </br>
@@ -22,7 +22,7 @@ An app that tracks sustainability activites performed by students on campus and 
 ### Getting Started:
 - Download the X app.
 - Students are asked to login with their UTORid.
-- Scan the QR code in the app after performing said activities.
+- Scan the QR code from the app after performing said activities.
 
 ### Earning Points:
 - Water dispensing station where you can use reusable water bottle and scan for points.
@@ -33,3 +33,6 @@ An app that tracks sustainability activites performed by students on campus and 
 ### Using Points:
 <strong>Redeem</strong> : Points can be redeemed from the app directly as cashback. <br>
 <strong>Donate</strong> : Points can be used to donate for environmental causes to NGOs such as Greenpeace and World Wildlife Fund.
+
+### Gamification:
+This app incorporates various concepts and strategies and gamification is one of the major ones. It includes a leaderboard page that shows the list of students who gained the most points throughout the semester. Moreover, it also displays positive reinforcement messages that show up on the Home page, that keep the user motivated. Competing with other players and getting a reward at the end of the semester is something everyone would look forward to, and try to achieve, which makes it all the more important during the development process.
