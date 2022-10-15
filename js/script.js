@@ -4,6 +4,10 @@ showSlides(1, 0);
 showSlides(1, 1);
 showSlides(1, 2);
 
+document.getElementsByClassName("mySlides1").onload = function() {showSlides(1, 0)};
+document.getElementsByClassName("mySlides2").onload = function() {showSlides(1, 1)};
+document.getElementsByClassName("mySlides3").onload = function() {showSlides(1, 2)};
+
 function plusSlides(n, no) {
     showSlides(slideIndex[no] += n, no);
 }
