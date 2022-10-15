@@ -1,4 +1,4 @@
-# htv-app
+# SustainU
 An app that tracks sustainability activites performed by students on campus and rewards them with points that can be redeemed or donated. This app aims to promote sustainability and help the environment by providing an incentive for students to do so.
 
 </br>
@@ -20,7 +20,7 @@ Our goal is to form a community of environmentally conscious students, and later
 
 ## Functionality
 ### Basic Working:
-- Download the X app.
+- Download the SustainU app.
 - Students are asked to Login or Sign Up with their UTORid.
 - Scan the QR code from the app after performing said activities to earn points.
 - Accumulate points and rise up the leaderboard.
