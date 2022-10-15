@@ -14,7 +14,7 @@ An app that tracks sustainability activites performed by students on campus and 
 </br>
 
 ## Goal
-The goal is to form the lifestyle of environmentally acts among students, later on bring it to the public, while making the world a cleaner place. Students can currently benefit from the app itself while contributing a better environment, the profits the app gains will make further impacts via donations in green charities.
+The goal of this project is to form a community of environmentally concious students, and later on scale it for the public, while making the world a cleaner place. Students can currently benefit from the app while contributing to a better environment. A percentage of the profits gained from the app will make further impacts via donations towards environmental charities.
 
 </br>
 
