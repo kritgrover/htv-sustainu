@@ -10,6 +10,7 @@ An app that tracks sustainability activities performed by students on campus and
   - [Earning and Using Points](#earning-points)
   - [Gamification](#gamification)
 - [Design and Prototype](#design-and-prototype)
+- [The Approach](#the-approach)
 - [Future Steps](#future-steps)
   
 </br>
@@ -52,8 +53,17 @@ Over the course of the last 24hrs, we built a design prototype of what the app w
 
 </br>
 
+## The Approach
+After a brief session of brainstorming we decided to focus on the theme Nature. From there we started researching and discussing about all the different niches for which we can possibly create an effective solution. Building upon that we came up with the idea for SustainU and went ahead with it because of how feasible yet impactful the concept can actually be. It requires a very minimal start up cost and little to no maintenance.<br>
+<br>
+The prototype of the app was built from scratch on Figma. Our team spent hours working on the designs, colors, fonts, and the overall UI experience. Although not yet fully polished, this prototype clearly demonstrates the workflow and UI of the app, while taking all the core concepts of design into consideration.<br>
+<br>
+The website is made to briefly describe our app and what it does, while providing a slideshow showing the basic working of the app. This website was built using HTML, CSS and a bit of JavaScript, and is really just for showing the world what SustainU is all about. We tackled with a lot of issues related to the layout and bugs during the development process, all of which were solved using research, discussions and critical thinking.
+
+</br>
+
 ## Future Steps
-As the cost of gas continues to fluctuate individuals are turning to use public transit. But, shouldn't they be rewarded for choosing this service and leaving a lower individual carbon footprint? 
+As the cost of gas continues to fluctuate individuals are turning to use public transit. But, shouldn't they be rewarded for choosing this service and leaving a lower individual carbon footprint? <br>
 We at SustainU think they do and thus we wish to open our app to the public and promote environmental sustainability with users acorss the GTA. An amibitious idea such as this would require cooperation and partnerships with both the private and governement sectors. For example, a proposed idea is to have points gained through frequent use of public transport. In order to keep track of when a user uses a public transit service we'd have to partner up with PRESTO in order to link the transcations with the points system of SustainU. Another proposed idea is to partner up with the Municipal Governments in allowing points to be gained through the use of CityBikes. Furthermore, environmentally sustainable small businesses that wish to increase their brand exposure can partner with SustainU and provide offers and discounts on their products. 
 Through SustainU individuals can finally be rewarded by being green. 
 
