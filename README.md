@@ -5,18 +5,27 @@ An app that tracks sustainability activities performed by students on campus and
 
 ## Table of Contents
 - [Goal](#goal)
+- [The Approach](#the-approach)
 - [Functionality](#functionality)
   - [Basic Working](#basic-working)
   - [Earning and Using Points](#earning-points)
   - [Gamification](#gamification)
 - [Design and Prototype](#design-and-prototype)
-- [The Approach](#the-approach)
 - [Future Steps](#future-steps)
   
 </br>
 
 ## Goal
 Our goal is to form a community of environmentally conscious students, and later on scale it for the public, while making the world a cleaner place. Raising awareness about in-campus sustainability among students and even faculty members, where everyone involved can benefit and actively take part in contributing towards a greener earth. By the simple acts done by students, we can build the bridge from environment friendliness to actual student life. A percentage of the profits gained from the app will make further impacts via donations towards environmental charities.
+
+</br>
+
+## The Approach
+After a brief session of brainstorming we decided to focus on the theme Nature. From there we started researching and discussing about all the different niches for which we can possibly create an effective solution. Building upon that we came up with the idea for SustainU and went ahead with it because of how feasible yet impactful the concept can actually be. It requires a very minimal start up cost and little to no maintenance.<br>
+<br>
+The prototype of the app was built from scratch on Figma. Our team spent hours working on the designs, colors, fonts, and the overall UI experience. Although not yet fully polished, this prototype clearly demonstrates the workflow and UI of the app, while taking all the core concepts of design into consideration.<br>
+<br>
+The website is made to briefly describe our app and what it does, while providing a slideshow showing the basic working of the app. This website was built using HTML, CSS and a bit of JavaScript, and is really just for showing the world what SustainU is all about. We tackled with a lot of issues related to the layout and bugs during the development process, all of which were solved using research, discussions and critical thinking.
 
 </br>
 
@@ -50,15 +59,6 @@ Over the course of the last 24hrs, we built a design prototype of what the app w
 <p align="center">
 <img src="images/s1.jpg" align="left" width=28% alt="Start Page"> <img src="images/Home.jpg" width=28% alt="Home Page"> <img src="images/leaderboard.jpg" align="right" width=28% alt="Leaderboard">
 </p>
-
-</br>
-
-## The Approach
-After a brief session of brainstorming we decided to focus on the theme Nature. From there we started researching and discussing about all the different niches for which we can possibly create an effective solution. Building upon that we came up with the idea for SustainU and went ahead with it because of how feasible yet impactful the concept can actually be. It requires a very minimal start up cost and little to no maintenance.<br>
-<br>
-The prototype of the app was built from scratch on Figma. Our team spent hours working on the designs, colors, fonts, and the overall UI experience. Although not yet fully polished, this prototype clearly demonstrates the workflow and UI of the app, while taking all the core concepts of design into consideration.<br>
-<br>
-The website is made to briefly describe our app and what it does, while providing a slideshow showing the basic working of the app. This website was built using HTML, CSS and a bit of JavaScript, and is really just for showing the world what SustainU is all about. We tackled with a lot of issues related to the layout and bugs during the development process, all of which were solved using research, discussions and critical thinking.
 
 </br>
 
