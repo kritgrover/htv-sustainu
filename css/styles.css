@@ -16,7 +16,7 @@ header {
 }
 
 h1 {
-    font-family: 'Kalam', cursive;
+    font-family: 'Poppins', sans-serif;
     color: white;
     font-size: 55px;
     text-align: center;
@@ -39,25 +39,29 @@ h1 {
 h2 {
     font-size: 37px;
     margin-bottom: 15px;
-    font-family: 'Satisy', cursive;
+    font-family: 'Poppins', sans-serif;
     color: #2E6345;
 }
 
 #goal {
-    margin-bottom: 70px;
+    margin-bottom: 8rem;
 }
 
 #login {
-    margin-bottom: 70px;
+    margin-bottom: 13rem;
+}
+
+#features {
+    margin-bottom: 5rem;
 }
 
 p {
-    display: inline;
-    font-size: 1.5rem;
+    display: inline-block;
+    font-size: 1.3rem;
     color: #2B4865;
-    letter-spacing: 0.1rem;
+    letter-spacing: 0.07rem;
     word-spacing: 0.0625rem;
-    font-family: 'Patrick Hand', cursive;
+    font-family: 'Barlow', sans-serif;
     text-align: justify;
     line-height: 175%;
 }
@@ -71,7 +75,7 @@ main {
     position: relative;
     float: right;
     width: 220px;
-    right: 10%;
+    right: 13%;
     padding-top: 25px;
 }
 
@@ -148,4 +152,23 @@ img {
     border-style: solid;
     border-radius: 15px;
     border-width: 4px;
+}
+
+.bottom-container {
+    background-color: #2E6345;
+    padding: 3.125rem 0 1.25rem;
+    text-align: center;
+}
+
+a {
+    font-size: 1.3rem;
+    color: #EAF6F6;
+    font-family: "Poppins", sans-serif;
+    margin: 0 1rem;
+}
+
+.copyright {
+    color: #EAF6F6;
+    font-size: 1rem;
+    padding: 2rem 0;
 }
