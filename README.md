@@ -4,6 +4,7 @@ An app that tracks sustainability activities performed by students on campus and
 </br>
 
 ## Table of Contents
+- [Inspiration](#inspiration)
 - [Goal](#goal)
 - [The Approach](#the-approach)
 - [Functionality](#functionality)
@@ -15,13 +16,18 @@ An app that tracks sustainability activities performed by students on campus and
   
 </br>
 
+## Inspiration
+The ongoing effects of climate change and the theme of nature preservation motivated us to think about how can we promote sustainability on campus. A lot of initiatives have been taken by companies, people and universities to tackle this and promote a sustainable lifestyle, but they haven't been very impactful. They either come as a one-time million dollar investment or a set of guidelines without context or implementation. We came up with a concept of an app that allows students to participate in environmentally sustainable activities in their everyday life and reward them for doing so. We believe that sustainability should not be a one time investment but more of a everyday practice and this is what to aim to achieve with SustainU.
+
+</br>
+
 ## Goal
 Our goal is to form a community of environmentally conscious students, and later on scale it for the public, while making the world a cleaner place. Raising awareness about in-campus sustainability among students and even faculty members, where everyone involved can benefit and actively take part in contributing towards a greener earth. By the simple acts done by students, we can build the bridge from environment friendliness to actual student life. A percentage of the profits gained from the app will make further impacts via donations towards environmental charities.
 
 </br>
 
 ## The Approach
-After a brief session of brainstorming we decided to focus on the theme Nature. From there we started researching and discussing about all the different niches for which we can possibly create an effective solution. Building upon that we came up with the idea for SustainU and went ahead with it because of how feasible yet impactful the concept can actually be. It requires a very minimal start up cost and little to no maintenance.<br>
+After a brief session of brainstorming our team decided to focus on sustainability. From there we started researching and discussing about all the different niches for which we can possibly create an effective solution. Building upon that we came up with the idea for SustainU and went ahead with it because of how feasible yet impactful the concept can actually be. It requires a very minimal start up cost and little to no maintenance.<br>
 <br>
 The prototype of the app was built from scratch on Figma. Our team spent hours working on the designs, colors, fonts, and the overall UI experience. Although not yet fully polished, this prototype clearly demonstrates the workflow and UI of the app, while taking all the core concepts of design into consideration.<br>
 <br>
