@@ -60,7 +60,7 @@ This app incorporates various concepts and strategies and gamification is one of
 </br>
 
 ## Design and Prototype
-Over the course of the last 24hrs, we built a design prototype of what the app will look like and how the interaction would be. A video demonstration of it can be accessed on the [Devpost](https://devpost.com/software/sustainu-app). Moreover, we also built a website which is directly hosted from this repository using Github Pages and can be accessed [here](https://kritgrover.github.io/htv-app/). Here are a few snapshots of the app.
+Over the course of the last 24hrs, we built a design prototype of what the app will look like and how the interaction would be. A video demonstration of it can be accessed on the [Devpost](https://devpost.com/software/sustainu-app). Moreover, we also built a website which is directly hosted from this repository using Github Pages and can be accessed [here](https://kritgrover.github.io/htv-sustainu/). Here are a few snapshots of the app.
 
 <p align="center">
 <img src="images/s1.jpg" align="left" width=28% alt="Start Page"> <img src="images/Home.jpg" width=28% alt="Home Page"> <img src="images/leaderboard.jpg" align="right" width=28% alt="Leaderboard">
